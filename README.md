@@ -122,9 +122,8 @@
 ## 浏览器
 | Article | Article |
 | --------- | --------- |
-|[判断浏览器版本 ](https://github.com/deepthan/Front-end-resource-collection/issues/1) |
-[浏览器的主要概念](https://github.com/deepthan/Front-end-resource-collection/issues/2)|
-| [浏览器渲染过程](https://github.com/deepthan/Front-end-resource-collection/issues/3) ||
+|[判断浏览器及其版本](https://github.com/deepthan/Front-end-resource-collection/issues/1) |[浏览器概念](https://github.com/deepthan/Front-end-resource-collection/issues/2)|
+| [浏览器渲染过程详解](https://github.com/deepthan/Front-end-resource-collection/issues/3) |
 
 
 ## 分享功能
