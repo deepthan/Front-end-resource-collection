@@ -48,61 +48,6 @@
 | --------- | --------- |
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907)|[Wallpaperbetter](http://www.wallpaperbetter.com/)|
 
-## Angular
-| Article | Angular文档 |
-| --------- | --------- |
-|[Angular源码解读publishExternalAPI函数](https://github.com/Wscats/Good-text-Share/issues/26)|[Angular源码解读setupModuleLoader函数](https://github.com/Wscats/Good-text-Share/issues/25)|
-|[Angular的ng-style用法](https://github.com/Wscats/Good-text-Share/issues/35)|[Angular判断在那个浏览器下打开的服务](https://github.com/Wscats/Good-text-Share/issues/29)|
-|[Angular文字折叠展开组件的原理分析](https://github.com/Wscats/Good-text-Share/issues/28)|[Angular服务Request异步请求的详细分析](https://github.com/Wscats/Good-text-Share/issues/21)|
-|[Angular自定义service服务详解](https://github.com/Wscats/Good-text-Share/issues/24)|[Angular自定义判断上一页是否存在的服务](https://github.com/Wscats/Good-text-Share/issues/22)|
-|[Angular操作cookies方法](https://github.com/Wscats/Good-text-Share/issues/19)|[Angular打印错误的minErr函数](https://github.com/Wscats/Good-text-Share/issues/18)|
-|[Angular的fromJson与toJson方法](https://github.com/Wscats/Good-text-Share/issues/17)|[Angular用ng-repeat生成表单并绑定ng-click时的一个细节](https://github.com/Wscats/Good-text-Share/issues/12)|
-|[Angular的run方法巧妙运用](https://github.com/Wscats/Good-text-Share/issues/6)|[Angular处理Html转义问题](https://github.com/Wscats/Good-text-Share/issues/5)|
-|[ng-repeat绑定事件和嵌套](ng-repeat绑定事件和嵌套)|[Angular的post请求后台接受不了数据的解决方法](https://github.com/Wscats/angular-demo/issues/4)|
-|[ionic总结](https://github.com/Wscats/angular-demo/issues/19)|[ui-route和ng-route](https://github.com/Wscats/angular-demo/issues/17)|
-|[ng-options&&ng-switch](https://github.com/Wscats/angular-demo/issues/15)|[directive组件作用域](https://github.com/Wscats/angular-demo/issues/14)|
-|[表单认证](https://github.com/Wscats/angular-demo/issues/13)|[$broadcast,$emit and $on](https://github.com/Wscats/angular-demo/issues/11)|
-|[自定义过滤器](https://github.com/Wscats/angular-demo/issues/9)|[自定义手势指令ng-touch](https://github.com/Wscats/angular-demo/issues/8)|
-|[ng-animate](https://github.com/Wscats/angular-demo/issues/7)|[单页面应用的技术点](https://github.com/Wscats/angular-demo/issues/3)|
-| **Guess you like** |**AppDemo**|
-|[Angular商城Demo](https://wscats.github.io/angular-demo/spa/mobie-b2bdemo1/index.html)|[Angular的Cnode社区](https://wscats.github.io/angular-demo/spa/CNode/index.html)|
-|[AngularStovepipe](https://wscats.github.io/angular-demo/spa/Stovepipe/index.html)|[Angular的新闻客户端](https://wscats.github.io/angular-demo/spa/TT/index.html)|
-|[Angular商城Demo](https://wscats.github.io/angular-demo/spa/mobie-b2bdemo1/index.html)|[Angular的Cnode社区](https://wscats.github.io/angular-demo/spa/CNode/index.html)|
-|[Angular内联编辑器](https://wscats.github.io/angular-demo/angularjs5examples/inline-editor/index.html)|[Angular即时搜索](https://wscats.github.io/angular-demo/angularjs5examples/instant-search/index.html)|
-|[Angular导航菜单](https://wscats.github.io/angular-demo/angularjs5examples/navigation-menu/index.html)|[Angular订单表单](https://wscats.github.io/angular-demo/angularjs5examples/order-form/index.html)|
-|[Angular切换网格](https://wscats.github.io/angular-demo/angularjs5examples/switchable-grid/index.html)|[Angular新闻＋WEUI DEMO](https://wscats.github.io/angular-demo/spa/news/index.html) [源码](https://github.com/Wscats/angular-demo/tree/gh-pages/spa/NodeServerAndApi-Weui-News)|
-| **Controller** |**控制器**|
-|[Angular控制器demo](https://wscats.github.io/angular-demo/view/student.html)||
-| **SPA DEMO** |**单页面应用**|
-|[Angular+Weui单页面应用DEMO-每日笑话](https://wscats.github.io/angular-demo/weui每日笑话.html)||
-| **Service** |**服务**|
-|[Angular自定义服务的常用方法](https://github.com/Wscats/angular-demo/blob/gh-pages/%E5%B8%B8%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E6%9C%8D%E5%8A%A1%E6%96%B9%E6%B3%95.md)|[Angular部分服务demo](https://wscats.github.io/angular-demo/部分服务demo.html)|
-|[Angular自定义Canvas画图服务](https://wscats.github.io/angular-demo/Angular自定义Canvas画图服务.html)|[Angular自定义http服务 面向对象封装](https://wscats.github.io/angular-demo/自定义http服务.html)|
-| **Directive** |**组件与指令**|
-|[Angular自定义手势指令](https://wscats.github.io/angular-demo/自定义手势事件.html)|[Angular自定义轮播图组件](https://wscats.github.io/angular-demo/自定义directive轮播图.html)|
-|[Angular自定义下拉刷新组件1](https://wscats.github.io/angular-demo/下拉刷新.html)|[Angular自定义下拉刷新组件2](https://wscats.github.io/angular-demo/Angular自定义下拉刷新组件.html)|
-| **Router** |**路由**|
-|[Angular路由嵌套](https://wscats.github.io/angular-demo/UI路由嵌套DEMO.html)|[Angular路由单页多个ui-view](https://wscats.github.io/angular-demo/uiRoute/index.html)|
-| **Filter** |**过滤器**|
-|[Angular自带过滤器](https://wscats.github.io/angular-demo/angular自带过滤器.html)|[Angular自定义关键词检索过滤器](https://wscats.github.io/angular-demo/自定义关键词检索过滤器.html)|
-| **Animate** |**动画**|
-|[Angular ng-animate动画1](https://wscats.github.io/angular-demo/ng-animate动画.html)|[Angular ng-animate动画2](https://wscats.github.io/angular-demo/ng-animate动画2.html)|
-| **Other** |**其他**|
-|[Angular中使用iframe](https://wscats.github.io/angular-demo/iframesdemo.html)|[Angular三级联动(1)](https://wscats.github.io/angular-demo/%E4%B8%89%E7%BA%A7%E8%81%94%E5%8A%A8.html)|
-|[Angular中使用ng-switch](https://wscats.github.io/angular-demo/ngSwitch.html)|[百度定位DEMO](https://wscats.github.io/angular-demo/百度地图定位DEMO.html)|
-|[Angular三级联动(2)](https://wscats.github.io/angular-demo/三级联动改进.html)|[Angular事件监听](https://wscats.github.io/angular-demo/事件监听.html)|
-|[jQuery模拟ng-repeat](https://wscats.github.io/angular-demo/jquery模拟ng-repeat.html)|[lessDemo](https://wscats.github.io/angular-demo/lessDemo.html)|
-|[Angular自定义cookie服务和ngCookie的使用](https://wscats.github.io/angular-demo/ngCookie.html)|[图灵机器人](https://wscats.github.io/angular-demo/图灵机器人.html)|
-|[Angular利用angular.module()实现模块化](https://wscats.github.io/angular-demo/angular模块化.html)|[Angular的form表单验证](https://wscats.github.io/angular-demo/form表单验证.html)|
-|[Angular的ng-repeat嵌套](https://wscats.github.io/angular-demo/ng-repeat嵌套.html)|[Angular利用angular.module()实现模块化2](https://wscats.github.io/angular-demo/angular模块化2.html)|
-| **PHP** | **PHP** |
-|[PHP CURL请求的小细节](https://github.com/Wscats/Good-text-Share/issues/53)||
-| **Reference** | **Reference** |
-|[最流行的PHP 代码规范](https://segmentfault.com/a/1190000000443795)|[最流行的PHP 代码规范](https://github.com/hfcorriez/fig-standards/blob/zh_CN/%E6%8E%A5%E5%8F%97/PSR-2-coding-style-guide.md)|
-|[Angular.js的一些学习资源](http://blog.aijc.net/AngularLearning/)|[Angularjs中文社区](http://angularjs.cn)|
-|[一些扩展Angular UI组件](https://github.com/angular-ui)|[Angular UI](http://mgcrea.github.io/angular-strap)|
-|[AngularJS在线教程](http://each.sinaapp.com/angular)|[Angular学习笔记](http://www.zouyesheng.com/angular.html)|
-
 ## React
 | React | Reference |
 | --------- | --------- |
@@ -172,6 +117,15 @@
 |[百度设置小度机器人出现](https://github.com/Wscats/Good-text-Share/issues/7)|[前端冷知识，妙用浏览器地址栏](https://github.com/Wscats/Good-text-Share/issues/2)|
 |[Vim笔记](https://github.com/Wscats/Good-text-Share/issues/27)|[Cordova配置&&Ionic配置（WebApp混合开发环境）](https://github.com/Wscats/Good-text-Share/issues/48)|
 |[IE8及以下按钮超链接无法跳转的问题](https://github.com/Wscats/Good-text-Share/issues/33)||
+
+
+## 浏览器
+| note | Article |
+| --------- | --------- |
+|[判断浏览器版本 ](https://github.com/deepthan/Front-end-resource-collection/issues/1) |
+[浏览器的主要概念](https://github.com/deepthan/Front-end-resource-collection/issues/2)|
+| [浏览器渲染过程](https://github.com/deepthan/Front-end-resource-collection/issues/3) | |
+
 
 ## 分享功能
 | Share | Reference |
