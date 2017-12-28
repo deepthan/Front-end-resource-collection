@@ -285,5 +285,5 @@
 ## 博客
 | Reference | Reference |
 | --------- | --------- |
-|[http://developers.googleblog.cn/](http://developers.googleblog.cn/) ||
+|[谷歌开发者中文博客](http://developers.googleblog.cn/) ||
 
