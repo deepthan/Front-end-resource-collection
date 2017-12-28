@@ -1,6 +1,5 @@
 # Front-end-resource-collection
-前端总结。
-:smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
+前端总结。If you like you can star~
 
 ## Javascript
 | Article | Article |
