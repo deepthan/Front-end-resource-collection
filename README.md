@@ -197,6 +197,13 @@
 |[我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)|[GitHub 漫游指南](https://github.com/phodal/github-roam)|
 |[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)|
 
+## npm
+| Article | Article |
+| --------- | --------- |
+| [在npm发布自己的angular包](https://www.jianshu.com/p/ced79d48e353)| |
+
+
+
 ## Sass&Less
 | Article | Article |
 | --------- | --------- |
