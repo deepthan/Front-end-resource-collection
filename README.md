@@ -284,5 +284,6 @@
 ## 博客
 | Reference | Reference |
 | --------- | --------- |
-|[谷歌开发者中文博客](http://developers.googleblog.cn/) ||
+|[谷歌开发者中文博客](http://developers.googleblog.cn/) | [腾讯全端团队](http://www.alloyteam.com/page/0/)|
+
 
