@@ -124,6 +124,13 @@
 |[判断浏览器及其版本](https://github.com/deepthan/Front-end-resource-collection/issues/1) |[浏览器概念](https://github.com/deepthan/Front-end-resource-collection/issues/2)|
 | [浏览器渲染过程详解](https://github.com/deepthan/Front-end-resource-collection/issues/3) |
 
+## 阿里手淘
+| Article | Article |
+| --------- | --------- |
+|[可伸缩布局方案](https://github.com/deepthan/Front-end-resource-collection/issues/2) |   [article](https://github.com/amfe/article)|
+
+
+
 
 ## 分享功能
 | Share | Reference |
