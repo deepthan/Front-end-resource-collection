@@ -20,6 +20,8 @@
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
 |[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|
 
+|[js属性get和set方法]()||
+
 ## UI
 | Reference | Reference |
 | --------- | --------- |
@@ -202,6 +204,7 @@
 |[Git常规命令练习](http://pcottle.github.io/learnGitBranching)|[Git的资料整理](https://github.com/xirong/my-git)|
 |[我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)|[GitHub 漫游指南](https://github.com/phodal/github-roam)|
 |[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)|
+| [git 报错集及解决方法]() || 
 
 ## npm
 | Article | Article |
