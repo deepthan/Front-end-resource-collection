@@ -19,7 +19,7 @@
 |[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
 |[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|
-| [js属性get和set方法] () | |
+| [js属性get和set方法] (http://blog.csdn.net/mutouafangzi/article/details/77875216) | |
 
 ## UI
 | Reference | Reference |
