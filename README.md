@@ -204,7 +204,7 @@
 |[Git常规命令练习](http://pcottle.github.io/learnGitBranching)|[Git的资料整理](https://github.com/xirong/my-git)|
 |[我所记录的git命令（非常实用）](http://www.cnblogs.com/fanfan259/p/4810517.html)|[GitHub 漫游指南](https://github.com/phodal/github-roam)|
 |[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)|[动画方式练习git](http://onlywei.github.io/explain-git-with-d3)|
-| [git 报错集及解决方法]() || 
+| [git 报错集及解决方法](https://github.com/deepthan/Front-end-resource-collection/issues/4) || 
 
 ## npm
 | Article | Article |
