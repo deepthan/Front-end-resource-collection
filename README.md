@@ -19,7 +19,11 @@
 |[JavaScript中的this陷阱的最全收集--没有之一](https://segmentfault.com/a/1190000002640298)|[JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 Javascript](http://javascript.ruanyifeng.com)|
 |[前端 TOP 100](https://www.awesomes.cn/rank)|[小白的零基础JavaScript全栈教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)|
-| [js属性get和set方法] (http://blog.csdn.net/mutouafangzi/article/details/77875216) |   |
+| [js属性get和set方法] (http://blog.csdn.net/mutouafangzi/article/details/77875216) |  [前端小白菜的烹饪指南](https://segmentfault.com/blog/tomson) |
+| [浅谈 JS 创建对象的 8 种模式](https://segmentfault.com/a/1190000003862596) | [浅谈 JS 对象添加 getter与 setter 的5种方法以及如何让对象属性不可配置或枚举](https://segmentfault.com/a/1190000003882976)|
+| [JavaScript ECAMScript5 新特性——get/set访问器](http://www.cnblogs.com/DaisyWang/p/Git.html) ||
+
+
 
 ## UI
 | Reference | Reference |
