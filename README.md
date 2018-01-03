@@ -1,5 +1,5 @@
 # Front-end-resource-collection
-前端总结。If you like you can star~
+前后端总结。If you like you can star~
 
 ## Javascript
 | Article | Article |
