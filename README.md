@@ -4,7 +4,7 @@
 ## Javascript
 | Article | Article |
 | --------- | --------- |
-|[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)|[Javascript中的apply和call继承](https://github.com/Wscats/Good-text-Share/issues/56)|
+|[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)，[例子2](https://github.com/wengjq/Blog/issues/3)|[Javascript中的apply和call继承](https://github.com/Wscats/Good-text-Share/issues/56)|
 |[前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/Good-text-Share/issues/85)|[我如何用前端技术得到XXOO网站的VIP](https://github.com/Wscats/Good-text-Share/issues/62)|
 |[Javascript的jsonp原理](https://github.com/Wscats/Good-text-Share/issues/55)|[Javascript监听触摸事件](https://github.com/Wscats/Good-text-Share/issues/49)|
 |[深入理解Javascript函数编程](https://github.com/Wscats/Good-text-Share/issues/1)|[Javascript面向对象编程](https://github.com/Wscats/Good-text-Share/issues/32)|
