@@ -22,6 +22,11 @@
 | [JavaScript ECAMScript5 新特性——get/set访问器](http://www.cnblogs.com/DaisyWang/p/Git.html) | [JavaScript的原始类型、引用类型、栈、堆、浅拷贝、深拷贝的概念](https://github.com/deepthan/Front-end-resource-collection/issues/6) |
 | [popmotion,动画库](https://github.com/Popmotion/popmotion) ||
 
+## 新技术
+| Reference | Reference |
+| --------- | --------- |
+|[2018 年最值得关注的 JavaScript 趋势](http://36kr.com/p/5110763.html)| |
+
 
 ## UI
 | Reference | Reference |
