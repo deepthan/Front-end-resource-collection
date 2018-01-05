@@ -22,6 +22,13 @@
 | [JavaScript ECAMScript5 新特性——get/set访问器](http://www.cnblogs.com/DaisyWang/p/Git.html) | [JavaScript的原始类型、引用类型、栈、堆、浅拷贝、深拷贝的概念](https://github.com/deepthan/Front-end-resource-collection/issues/6) |
 | [popmotion,动画库](https://github.com/Popmotion/popmotion) ||
 
+## 动画
+| Article | Article |
+| --------- | --------- |
+| [popmotion,动画库](https://github.com/Popmotion/popmotion) | [css动画库 animate.css](https://github.com/daneden/animate.css/) |
+| [Effeckt](http://h5bp.github.io/Effeckt.css/) | [hover.css](http://ianlunn.github.io/Hover/) | 
+| [animatable](http://leaverou.github.io/animatable/) | | 
+
 ## 新技术
 | Reference | Reference |
 | --------- | --------- |
@@ -50,6 +57,7 @@
 |[腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)|[animate.css](http://daneden.github.io/animate.css)|
 |[Animated Books with CSS 3D Transforms](http://tympanus.net/Development/AnimatedBooks/)|[Browserhacks](http://browserhacks.com/)|
 | [NEC,网易出品的更好的css方案](http://nec.netease.com/standard/css-sort.html) | [storybook](https://github.com/storybooks/storybook)  |
+
 
 ## HTML
 | Article | Article |
