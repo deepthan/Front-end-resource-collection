@@ -21,6 +21,7 @@
 | [浅谈 JS 创建对象的 8 种模式](https://segmentfault.com/a/1190000003862596) | [浅谈 JS 对象添加 getter与 setter 的5种方法以及如何让对象属性不可配置或枚举](https://segmentfault.com/a/1190000003882976)|
 | [JavaScript ECAMScript5 新特性——get/set访问器](http://www.cnblogs.com/DaisyWang/p/Git.html) | [JavaScript的原始类型、引用类型、栈、堆、浅拷贝、深拷贝的概念](https://github.com/deepthan/Front-end-resource-collection/issues/6) |
 
+
 ## 动画
 | Article | Article |
 | --------- | --------- |
@@ -46,6 +47,7 @@
 |[网易Nej - Nice Easy Javascript](http://nej.netease.com)|[Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)|
 |[Smart UI](http://smartui.chinamzz.com)|[雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids)|
 
+
 ## CSS
 | Article | Article |
 | --------- | --------- |
@@ -64,6 +66,7 @@
 | --------- | --------- |
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907)|[Wallpaperbetter](http://www.wallpaperbetter.com/)|
 
+
 ## React
 | React | Reference |
 | --------- | --------- |
@@ -78,6 +81,7 @@
 |[React.js material UI](http://material-ui.com/#)|[React.js TouchstoneJS UI](http://touchstonejs.io)|
 |[React.js amazeui UI](http://amazeui.org/react)|[React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)|
 |[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native)|[Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)|
+
 
 ## Vue
 | Vue |AppDemo|Demo|
@@ -114,6 +118,7 @@
 |[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs)|[Node入门](http://www.nodebeginner.org/index-zh-cn.html)|
 |[Node初学者入门，一本全面的NodeJS教程](http://ourjs.com/detail/529ca5950cb6498814000005)||
 
+
 ## Gulp 
 | Gulp | Article |
 | --------- | --------- |
@@ -123,6 +128,7 @@
 |[Gulp资料收集](https://github.com/Platform-CUF/use-gulp)|[Gulp：任务自动管理工具 - ruanyifeng](http://javascript.ruanyifeng.com/tool/gulp.html)|
 |[Gulp插件](http://gulpjs.com/plugins])|[Gulp不完全入门教程](http://www.ido321.com/1622.html)|
 |[Gulp 入门指南](https://github.com/nimojs/gulp-book)||
+
 
 ## 其他
 | Other | Article |
