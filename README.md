@@ -28,7 +28,7 @@
 | [popmotion,动画库](https://github.com/Popmotion/popmotion) | [css动画库 animate.css](https://github.com/daneden/animate.css/) |
 | [Effeckt](http://h5bp.github.io/Effeckt.css/) | [hover.css](http://ianlunn.github.io/Hover/) | 
 | [animatable](http://leaverou.github.io/animatable/) |[利用 快速灵活的 2D WebGL 渲染器创建漂亮的数字内容](http://www.pixijs.com/gallery) | 
-| [一个轻量级的 Javascript 动画引擎anime](https://github.com/juliangarnier/anime)||
+| [一个轻量级的 Javascript 动画引擎anime](https://github.com/juliangarnier/anime)| [一个针对 HTML 和 SVG 的 JavaScript 可视化库](https://d3js.org/)|
 
 ## 新技术
 | Reference | Reference |
