@@ -306,6 +306,12 @@
 |[Now Coder牛客网](https://www.nowcoder.com/ta/js-assessment)|[Leetcode](https://leetcode.com/)|
 |[Nodeschool](https://nodeschool.io/)|[Hackerrank](https://www.hackerrank.com/)|
 
+## 读书笔记
+| Article | Article |
+| --------- | --------- |
+| [JavaScript权威指南（第六版）](https://github.com/deepthan/Front-end-resource-collection/issues/7)||
+
+
 ## 算法
 | Reference | Reference |
 | --------- | --------- |
