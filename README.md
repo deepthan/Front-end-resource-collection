@@ -38,7 +38,7 @@
 ## 准则&规范
 | Reference | Reference |
 | --------- | --------- |
-|[干净的 JavaScript 代码准则clean-code-javascript](https://www.awesomes.cn/repo/ryanmcdermott/clean-code-javascript)| |
+|[干净的 JavaScript 代码准则clean-code-javascript](https://www.awesomes.cn/repo/ryanmcdermott/clean-code-javascript)| [JavaScript 风格指南](https://github.com/airbnb/javascript) |
 
 ## UI
 | Reference | Reference |
