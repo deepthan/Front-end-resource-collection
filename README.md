@@ -28,7 +28,7 @@
 | [popmotion,动画库](https://github.com/Popmotion/popmotion) | [css动画库 animate.css](https://github.com/daneden/animate.css/) |
 | [Effeckt](http://h5bp.github.io/Effeckt.css/) | [hover.css](http://ianlunn.github.io/Hover/) | 
 | [animatable](http://leaverou.github.io/animatable/) | | 
-
+| [一个轻量级的 Javascript 动画引擎anime](https://github.com/juliangarnier/anime)||
 
 ## 新技术
 | Reference | Reference |
