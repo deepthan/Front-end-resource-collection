@@ -36,6 +36,8 @@
 |[2018 年最值得关注的 JavaScript 趋势](http://36kr.com/p/5110763.html)| |
 
 ## 准则&规范
+| Reference | Reference |
+| --------- | --------- |
 |[干净的 JavaScript 代码准则clean-code-javascript](https://www.awesomes.cn/repo/ryanmcdermott/clean-code-javascript)| |
 
 ## UI
