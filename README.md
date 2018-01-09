@@ -325,12 +325,15 @@
 |[数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)|[常见排序算法（JS版）](https://github.com/twobin/twobinSort)|
 |[经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)|[常见排序算法-js版本](https://github.com/hechangmin/jssort)|
 
+
 ## 书籍
 | Reference | Reference |
 | --------- | --------- |
 |[Exploring-ES6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 ES6](http://es6.ruanyifeng.com)|
 |[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 JavaScript 标准参考教程](http://javascript.ruanyifeng.com)|
+
+
 ## 博客
 | Reference | Reference |
 | --------- | --------- |
