@@ -332,7 +332,7 @@
 |[Exploring-ES6翻译](http://es6-org.github.io/exploring-es6/)|[阮一峰 ES6](http://es6.ruanyifeng.com)|
 |[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 JavaScript 标准参考教程](http://javascript.ruanyifeng.com)|
-
+|[前端网络开发小书](http://yangjh.oschina.io/front-end/)| |
 
 ## 博客
 | Reference | Reference |
