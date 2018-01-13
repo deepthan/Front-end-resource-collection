@@ -30,7 +30,7 @@
 | [animatable](http://leaverou.github.io/animatable/) |[利用 快速灵活的 2D WebGL 渲染器创建漂亮的数字内容](http://www.pixijs.com/gallery) | 
 | [一个轻量级的 Javascript 动画引擎anime](https://github.com/juliangarnier/anime)| [一个针对 HTML 和 SVG 的 JavaScript 可视化库](https://d3js.org/)|
 | [JavaScript 3D 库:three.js](https://github.com/mrdoob/three.js)| [基于 CSS3 变换和过渡的页面效果框架: impress.js](https://github.com/impress/impress.js)|
-
+| [酷炫的效果](https://codepen.io/) || 
 
 
 ## 新技术
@@ -66,13 +66,19 @@
 |[腾讯css3动画制作工具](http://isux.tencent.com/css3/tools.html)|[animate.css](http://daneden.github.io/animate.css)|
 |[Animated Books with CSS 3D Transforms](http://tympanus.net/Development/AnimatedBooks/)|[Browserhacks](http://browserhacks.com/)|
 | [NEC,网易出品的更好的css方案](http://nec.netease.com/standard/css-sort.html) | [storybook](https://github.com/storybooks/storybook)  |
-| div居中对齐 | |
+| div居中对齐 | [CSS新特性](https://css-tricks.com/)|
 
 
 ## HTML
 | Article | Article |
 | --------- | --------- |
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907)|[Wallpaperbetter](http://www.wallpaperbetter.com/)|
+| [前沿的技术](https://www.html5rocks.com/en/) | | 
+
+## 兼容性
+| Article | Article |
+| --------- | --------- |
+[html/css标签、属性在各个浏览器中的支持情况](https://caniuse.com/)| |
 
 
 ## React
