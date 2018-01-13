@@ -345,6 +345,11 @@
 
 
 ## wordpress && php
-| Article | Article |
+| 方法 | 方法 |
 | --------- | --------- |
 |[php发送邮件 ](https://github.com/deepthan/Front-end-resource-collection/issues/9) | |
+
+| 插件 | 插件 |
+| --------- | --------- |
+|主题更新插件： Easy Theme and Plugin Upgrades |  seo插件： All in One SEO Pack|
+| wordpress富文本编辑器: Kindeditor For Wordpress  | 导入导出数据: WordPress 导入工具 |
