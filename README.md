@@ -22,7 +22,7 @@
 | [javaScript事件总览,要实现Angular的方法（未）](http://www.cnblogs.com/starof/p/4106904.html) | [javascript - "Thinking in AngularJS" if I have a jQuery background?](https://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background) |
 | [JS操作DOM元素属性和方法](http://thinking80s.iteye.com/blog/723935) | |
 
-| 方法 | 方法 |
+| 介绍 | 地址 |
 | --------- | --------- |
 | 你可能不需要jquery: 用原生实现jquery写法 |[github仓库](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md) / [对比网站](http://youmightnotneedjquery.com/) | 
 
