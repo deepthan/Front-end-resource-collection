@@ -19,7 +19,7 @@
 | [js属性get和set方法](http://blog.csdn.net/mutouafangzi/article/details/77875216) |  [前端小白菜的烹饪指南](https://segmentfault.com/blog/tomson) |
 | [浅谈 JS 创建对象的 8 种模式](https://segmentfault.com/a/1190000003862596) | [浅谈 JS 对象添加 getter与 setter 的5种方法以及如何让对象属性不可配置或枚举](https://segmentfault.com/a/1190000003882976)|
 | [JavaScript ECAMScript5 新特性——get/set访问器](http://www.cnblogs.com/DaisyWang/p/Git.html) | [JavaScript的原始类型、引用类型、栈、堆、浅拷贝、深拷贝的概念](https://github.com/deepthan/Front-end-resource-collection/issues/6) |
-| [javaScript事件总览,要实现Angular的方法（未）](http://www.cnblogs.com/starof/p/4106904.html) | |
+| [javaScript事件总览,要实现Angular的方法（未）](http://www.cnblogs.com/starof/p/4106904.html) | [javascript - "Thinking in AngularJS" if I have a jQuery background?](https://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background) |
 
 
 ## 动画
