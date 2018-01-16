@@ -363,7 +363,7 @@
 | 方法 | 方法 |
 | --------- | --------- |
 |[php发送邮件 ](https://github.com/deepthan/Front-end-resource-collection/issues/9) | [wordpress方法](https://github.com/deepthan/Front-end-resource-collection/issues/10)|
-| [wordpress模板构造](https://github.com/deepthan/Front-end-resource-collection/issues/12) | |
+|[wordpress模板构造](https://github.com/deepthan/Front-end-resource-collection/issues/12) | |
 
 
 | 插件 | 插件 |
