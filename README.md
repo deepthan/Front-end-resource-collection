@@ -25,7 +25,7 @@
 | 介绍 | 地址 |
 | --------- | --------- |
 | 你可能不需要jquery: 用原生实现jquery写法 |[github仓库](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README.zh-CN.md) / [对比网站](http://youmightnotneedjquery.com/) | 
-
+| 注释规范(待整理) | [github](https://github.com/kuckboy1994/Blog/issues/13) | | 
 
 
 ## 动画
@@ -73,7 +73,7 @@
 |[Animated Books with CSS 3D Transforms](http://tympanus.net/Development/AnimatedBooks/)|[Browserhacks](http://browserhacks.com/)|
 | [NEC,网易出品的更好的css方案](http://nec.netease.com/standard/css-sort.html) | [storybook](https://github.com/storybooks/storybook)  |
 | div居中对齐 | [CSS新特性](https://css-tricks.com/)|
-
+| [sass教程](http://www.lvyestudy.com/sass/sass_4.5.aspx) | |
 
 ## HTML
 | Article | Article |
