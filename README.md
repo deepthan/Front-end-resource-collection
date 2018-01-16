@@ -75,6 +75,9 @@
 | div居中对齐 | [CSS新特性](https://css-tricks.com/)|
 | [sass教程](http://www.lvyestudy.com/sass/sass_4.5.aspx) | |
 
+| 小技巧 | 小技巧 |
+| --------- | --------- |
+| [一个div在另外一个div横向居中,纵向自定义](https://github.com/deepthan/Front-end-resource-collection/issues/11) | | 
 ## HTML
 | Article | Article |
 | --------- | --------- |
