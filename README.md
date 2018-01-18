@@ -39,6 +39,12 @@
 | [酷炫的效果](https://codepen.io/) | [js,jquery,css,html5特效](http://www.cnblogs.com/roucheng/p/texiao.html)| 
 | 好玩的动画效果[刘看山](https://liukanshan.zhihu.com/) ||
 
+## canvas
+| Article | Article |
+| --------- | --------- |
+| [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) | [HTML5 canvas](https://www.html5canvastutorials.com/) |
+
+
 ## 新技术
 | Reference | Reference |
 | --------- | --------- |
@@ -369,7 +375,8 @@
 | 方法 | 方法 |
 | --------- | --------- |
 |[php发送邮件 ](https://github.com/deepthan/Front-end-resource-collection/issues/9) | [wordpress方法](https://github.com/deepthan/Front-end-resource-collection/issues/10)|
-|[wordpress模板构造](https://github.com/deepthan/Front-end-resource-collection/issues/12) | [上传文件](https://github.com/deepthan/Front-end-resource-collection/issues/13)|
+|[wordpress模板构造](https://github.com/deepthan/Front-end-resource-collection/issues/12) | [上传文件](https://github.com/deepthan/Front-end-resource-collection/issues/13)| 
+| [wordprss里面分别怎么取出父子分类信息 ](https://github.com/deepthan/Front-end-resource-collection/issues/14) | 
 
 
 | 插件 | 插件 |
