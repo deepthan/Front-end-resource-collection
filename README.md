@@ -323,7 +323,7 @@
 |[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)|[前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|
 |[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
 |[前端面试大全](https://segmentfault.com/a/1190000005947094)|[关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/)|
-
+| [ 高级前端开发工程师面试题 ](https://github.com/cuitianze/Front-end-Developer-Interview-Questions-of-Chinese) | 
 
 ## 前端网站
 | Reference | Reference |
