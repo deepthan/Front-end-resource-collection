@@ -295,7 +295,7 @@
 |[前端知识结构](https://github.com/JacksonTian/fks)|[Web前端开发大系概览](https://github.com/unruledboy/WebFrontEndStack)|
 |[免费的编程中文书籍索](https://github.com/justjavac/free-programming-books-zh_CN)|[前端书籍](https://github.com/dypsilon/frontend-dev-bookmarks)|
 |[前端免费书籍大全](https://github.com/vhf/free-programming-books)|[重新介绍JavaScript（JS教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)|
-|[Gitbook](https://www.gitbook.com 国外的在线markdown可编辑成书)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)|
+|[Gitbook:  国外的在线markdown可编辑成书](https://www.gitbook.com)|[Front-End-Develop-Guide 前端开发指南](https://github.com/Front-End-Developers-Hunan/Front-End-Develop-Guide)|
 |[前端开发笔记本](https://li-xinyang.gitbooks.io/frontend-notebook/content)|[大前端工具集](https://github.com/nieweidong/fetool)|
 |[前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content)|[结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)|
 |[2016最新前端学习计划](http://blog.csdn.net/qq_25827845/article/details/53079094)| [前端应该看哪些书籍](https://www.zhihu.com/question/22591993) |
@@ -323,7 +323,7 @@
 |[BAT及各大互联网公司2014前端笔试面试题：JavaScript篇](http://blog.jobbole.com/78738/)|[前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|
 |[收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)|[前端开发面试题](https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md)|
 |[前端面试大全](https://segmentfault.com/a/1190000005947094)|[关于前端面试](https://mdluo.github.io/blog/about-front-end-interview/)|
-| [ 高级前端开发工程师面试题 ](https://github.com/cuitianze/Front-end-Developer-Interview-Questions-of-Chinese) | 
+| [高级前端开发工程师面试题](https://github.com/cuitianze/Front-end-Developer-Interview-Questions-of-Chinese) | 
 
 ## 前端网站
 | Reference | Reference |
@@ -355,7 +355,7 @@
 | --------- | --------- |
 |[数据结构与算法 JavaScript 描述. 章节练习](https://github.com/Ralph-Wang/algorithm.in.js)|[常见排序算法（JS版）](https://github.com/twobin/twobinSort)|
 |[经典排序](https://github.com/luofei2011/jsAgm/blob/master/js/sort.js)|[常见排序算法-js版本](https://github.com/hechangmin/jssort)|
-
+| [算法-每日练习]( https://github.com/barretlee/daily-algorithms) |  | 
 
 ## 书籍
 | Reference | Reference |
@@ -383,3 +383,9 @@
 | --------- | --------- |
 |主题更新插件： Easy Theme and Plugin Upgrades |  seo插件： All in One SEO Pack|
 | wordpress富文本编辑器: Kindeditor For Wordpress  | 导入导出数据: WordPress 导入工具 |
+
+
+## 编辑器
+| 名称 | 用法 |
+| --------- | --------- |
+| 在线编辑器，强大方便  | [jsbin编辑器地址](http://jsbin.com/?html,output)  | 
