@@ -347,7 +347,10 @@
 ## 读书笔记
 | Article | Article |
 | --------- | --------- |
-| [JavaScript权威指南（第六版）](https://github.com/deepthan/Front-end-resource-collection/issues/7)||
+| [JavaScript权威指南（第六版）](https://github.com/deepthan/Front-end-resource-collection/issues/7)| [JavaScript DOM 编程艺术]() |
+| [ JavsScript高级程序设计（第三版）]()    |   [ 学习Javascript数据结构与算法]()|
+| [ JavaScript设计模式与开发实践]()        |    [高性能JavaScript]()            |
+| [ 你不知道的JavaScript（YOU DONT KNOW JAVASCRIPT）]()    |     
 
 
 ## 算法
@@ -364,6 +367,8 @@
 |[ECMA-262，第 5 版](http://yanhaijing.com/es5)|[ES5](http://es5.github.io)|
 |[JavaScript Promise迷你书（中文版）](http://liubin.github.io/promises-book)|[阮一峰 JavaScript 标准参考教程](http://javascript.ruanyifeng.com)|
 |[前端网络开发小书](http://yangjh.oschina.io/front-end/)| |
+| JavsScript高级程序设计（第三版）作者正在写的： |  [ Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)  |
+| 经典的计算机科学范例、算法和用JavaScript编写的方法汇总 |  [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
 
 ## 博客
 | Reference | Reference |
