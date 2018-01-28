@@ -386,7 +386,7 @@
 
 | 函数调用 | 函数调用 | 
 | ---  | --- |
-| [调用博客名称、地址和描述 ](https://github.com/deepthan/Front-end-resource-collection/issues/17) | [调用文章相关 API](https://github.com/deepthan/Front-end-resource-collection/issues/18 | 
+| [调用博客名称、地址和描述 ](https://github.com/deepthan/Front-end-resource-collection/issues/17) | [调用文章相关 API](https://github.com/deepthan/Front-end-resource-collection/issues/18)| 
 | [获得自定义文章](https://github.com/deepthan/Front-end-resource-collection/issues/19)  |  [获得文章类型名称](https://github.com/deepthan/Front-end-resource-collection/issues/20) |
 | [如何引入文件](https://github.com/deepthan/Front-end-resource-collection/issues/21)  | [点击某个分类名称直接进入分类内容](https://github.com/deepthan/Front-end-resource-collection/issues/22) |
 | [文章自定义栏目调用](https://github.com/deepthan/Front-end-resource-collection/issues/23) | [wordpress方法集](https://github.com/deepthan/Front-end-resource-collection/issues/10) |     
