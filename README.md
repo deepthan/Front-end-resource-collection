@@ -381,7 +381,7 @@
 | --------- | --------- |
 |[php发送邮件 ](https://github.com/deepthan/Front-end-resource-collection/issues/9) | [wordpress方法](https://github.com/deepthan/Front-end-resource-collection/issues/10)|
 |[wordpress模板构造](https://github.com/deepthan/Front-end-resource-collection/issues/12) | [上传文件](https://github.com/deepthan/Front-end-resource-collection/issues/13)| 
-| [wordprss里面分别怎么取出父子分类信息 ](https://github.com/deepthan/Front-end-resource-collection/issues/14) | 
+| [wordprss里面分别怎么取出父子分类信息 ](https://github.com/deepthan/Front-end-resource-collection/issues/14) |  [php抓取页面内容 ](https://github.com/deepthan/Front-end-resource-collection/issues/16)   | 
 
 
 | 问题解决  | 问题解决 | 
