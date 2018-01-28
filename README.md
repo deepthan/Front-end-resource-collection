@@ -384,10 +384,16 @@
 | [wordprss里面分别怎么取出父子分类信息 ](https://github.com/deepthan/Front-end-resource-collection/issues/14) | 
 
 
+| 问题解决  | 问题解决 | 
+| --- | --- |
+| [上传显示超出upload_max_filesize](https://github.com/deepthan/Front-end-resource-collection/issues/15)  | 
+
+
 | 插件 | 插件 |
 | --------- | --------- |
 |主题更新插件： Easy Theme and Plugin Upgrades |  seo插件： All in One SEO Pack|
 | wordpress富文本编辑器: Kindeditor For Wordpress  | 导入导出数据: WordPress 导入工具 |
+
 
 
 ## 编辑器
