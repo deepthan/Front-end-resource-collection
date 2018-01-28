@@ -379,9 +379,17 @@
 ## wordpress && php
 | 方法 | 方法 |
 | --------- | --------- |
-|[php发送邮件 ](https://github.com/deepthan/Front-end-resource-collection/issues/9) | [wordpress方法](https://github.com/deepthan/Front-end-resource-collection/issues/10)|
+|[php发送邮件 ](https://github.com/deepthan/Front-end-resource-collection/issues/9) | [php抓取页面内容 ](https://github.com/deepthan/Front-end-resource-collection/issues/16) |
 |[wordpress模板构造](https://github.com/deepthan/Front-end-resource-collection/issues/12) | [上传文件](https://github.com/deepthan/Front-end-resource-collection/issues/13)| 
-| [wordprss里面分别怎么取出父子分类信息 ](https://github.com/deepthan/Front-end-resource-collection/issues/14) |  [php抓取页面内容 ](https://github.com/deepthan/Front-end-resource-collection/issues/16)   | 
+| [wordprss里面分别怎么取出父子分类信息 ](https://github.com/deepthan/Front-end-resource-collection/issues/14) |  [php 请求数据](https://github.com/deepthan/Front-end-resource-collection/issues/24)  | 
+
+
+| 函数调用 | 函数调用 | 
+| ---  | --- |
+| [调用博客名称、地址和描述 ](https://github.com/deepthan/Front-end-resource-collection/issues/17) | [调用文章相关 API](https://github.com/deepthan/Front-end-resource-collection/issues/18 | 
+| [获得自定义文章](https://github.com/deepthan/Front-end-resource-collection/issues/19)  |  [获得文章类型名称](https://github.com/deepthan/Front-end-resource-collection/issues/20) |
+| [如何引入文件](https://github.com/deepthan/Front-end-resource-collection/issues/21)  | [点击某个分类名称直接进入分类内容](https://github.com/deepthan/Front-end-resource-collection/issues/22) |
+| [文章自定义栏目调用](https://github.com/deepthan/Front-end-resource-collection/issues/23) | [wordpress方法集](https://github.com/deepthan/Front-end-resource-collection/issues/10) |     
 
 
 | 问题解决  | 问题解决 | 
