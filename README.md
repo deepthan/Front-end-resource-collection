@@ -270,6 +270,10 @@
 | yarn官网：  [用法](https://yarnpkg.com/en/docs/managing-dependencies)/ [下载](https://yarnpkg.com/en/docs/install)|  [yarn github](https://github.com/yarnpkg/yarn) |
 | yarn和npm区别:[ Yarn vs npm: 你需要知道的一切](http://web.jobbole.com/88459/)  | |
 
+## nginx
+| Reference | Reference |
+| --------- | --------- |
+| [官网](http://www.nginx.cn/doc/) |  |
 
 ## Sass&Less
 | Article | Article |
