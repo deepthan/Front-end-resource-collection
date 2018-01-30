@@ -95,8 +95,7 @@
 ## 图表
 | Article | Article |
 | --------- | --------- |
-| [echarts](http://echarts.baidu.com/index.html)  |  |
-
+| [echarts官网](http://echarts.baidu.com/index.html)  | [echarts github](https://github.com/ecomfe/echarts)  |
 
 
 ## 兼容性
