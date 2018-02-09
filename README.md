@@ -1,5 +1,5 @@
 # Front-end-resource-collection
-前后端总结。If you like you can star~
+前后端总结。
 
 ## Javascript
 | Article | Article |
@@ -96,7 +96,7 @@
 | Article | Article |
 | --------- | --------- |
 | [echarts官网](http://echarts.baidu.com/index.html)  | [echarts github](https://github.com/ecomfe/echarts)  |
-
+| [Highcharts ](https://www.hcharts.cn/) | |
 
 ## 兼容性
 | Article | Article |
@@ -118,33 +118,6 @@
 |[React.js material UI](http://material-ui.com/#)|[React.js TouchstoneJS UI](http://touchstonejs.io)|
 |[React.js amazeui UI](http://amazeui.org/react)|[React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)|
 |[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native)|[Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)|
-
-
-## Vue
-| Vue |AppDemo|Demo|
-| --------- | --------- | --------- |
-|[NewsDemo](https://wscats.github.io/vue-demo/news/index.html)|[vue计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|[vue生命周期](https://wscats.github.io/vue-demo/vue生命周期.html)|
-| **Article** |**Vue文档**||
-|[Vue-cli脚手架](https://github.com/Wscats/vue-demo/issues/2)|[Vue组件](https://github.com/Wscats/vue-demo/issues/3)|[vue自定义指令](https://github.com/Wscats/vue-demo/issues/8)|
-|[Vue过渡动画](https://github.com/Wscats/vue-demo/issues/9)|[Vue指令](https://github.com/Wscats/vue-demo/issues/7)|[Vue api文档](https://github.com/Wscats/vue-demo/issues/6)|
-|[Vue执行ajax请求](https://github.com/Wscats/vue-demo/issues/5)|[vue实现类似angular服务的方法](https://github.com/Wscats/vue-demo/issues/4)|[Vue源码参考文档](https://github.com/Wscats/vue-demo/issues/10)|
-| **Router** |**路由**||
-|[路由demo](https://wscats.github.io/vue-demo/路由.html)|[路由demo2](https://wscats.github.io/vue-demo/路由2.html)||
-| **Directive** |**指令**||
-|[指令demo](https://wscats.github.io/vue-demo/指令.html)|[自定义指令demo](https://wscats.github.io/vue-demo/自定义指令.html)|[滑动手势demo](https://wscats.github.io/vue-demo/滑动手势指令.html)|
-| **Filter** |**过滤器**||
-|[过滤器demo](https://wscats.github.io/vue-demo/过滤器.html)|[过滤器实现分页demo](https://wscats.github.io/vue-demo/vue使用过滤器实现分页.html)|[过滤器读写数据](https://wscats.github.io/vue-demo/vue过滤器读写数据.html)|
-| **Transition** |**过渡**||
-|[过渡demo](https://wscats.github.io/vue-demo/过渡.html)|[过渡demo2](https://wscats.github.io/vue-demo/过渡2.html)||
-| **Form** |**表单**||
-|[获取表单值](https://wscats.github.io/vue-demo/vue获取表单值.html)|||
-| **Computed** |**计算**||
-|[计算属性](https://wscats.github.io/vue-demo/vue计算属性.html)|||
-| Component |组件||
-|[组件demo](https://wscats.github.io/vue-demo/组件.html)|||
-| **Reference** | **Reference** | **Reference** |
-|[Vue官网](http://cn.vuejs.org)|[Vue论坛](http://forum.vuejs.org)|[Awesome-vue](https://github.com/vuejs/awesome-vue)|
-
 
 ## Node
 | Node | Article |
@@ -188,8 +161,6 @@
 | Article | Article |
 | --------- | --------- |
 |[可伸缩布局方案](https://github.com/deepthan/Front-end-resource-collection/issues/2) |   [article](https://github.com/amfe/article)|
-
-
 
 
 ## 分享功能
