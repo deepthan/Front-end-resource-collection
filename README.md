@@ -228,7 +228,7 @@
 | Article | Article |
 | --------- | --------- |
 | [git 报错集及解决方法](https://github.com/deepthan/Front-end-resource-collection/issues/4) | [git关联仓库、拉取代码、提交代码完整流程](https://github.com/deepthan/Front-end-resource-collection/issues/5)| 
-| [利用git新建分支](https://github.com/deepthan/Front-end-resource-collection/issues/25) | |
+| [利用git新建分支](https://github.com/deepthan/Front-end-resource-collection/issues/25) |  [两种方法解决git每次push都要填写账号密码问题](https://github.com/deepthan/Front-end-resource-collection/issues/28) |
 
 | **Reference** | **Reference** |
 | --------- | --------- |
