@@ -224,11 +224,15 @@
 |[360网站卫士常用前端公共库CDN服务](http://libs.useso.com)||
 
 ## Git
+
 | Article | Article |
 | --------- | --------- |
 | [git 报错集及解决方法](https://github.com/deepthan/Front-end-resource-collection/issues/4) | [git关联仓库、拉取代码、提交代码完整流程](https://github.com/deepthan/Front-end-resource-collection/issues/5)| 
 | [利用git新建分支](https://github.com/deepthan/Front-end-resource-collection/issues/25) | |
+
 | **Reference** | **Reference** |
+| --------- | --------- |
+|[Git操作](https://github.com/Wscats/Good-text-Share/issues/20)|[Git CSDN Blog](http://blog.csdn.net/qq_27080247/article/details/49942991)|
 |[Git-scm](http://git-scm.com)|[Git-for-windows](https://git-for-windows.github.io)|
 |[廖雪峰-Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)|[Gogithub](http://www.worldhello.net/gotgithub/index.html)|
 |[Git常规命令练习](http://pcottle.github.io/learnGitBranching)|[Git的资料整理](https://github.com/xirong/my-git)|
