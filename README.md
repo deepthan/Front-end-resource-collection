@@ -2,7 +2,8 @@
 前后端总结。
 
 ## Javascript
-| Article | Article |
+
+| 标题 | 标题 |
 | --------- | --------- |
 |[Javascript深浅拷贝](https://github.com/Wscats/Good-text-Share/issues/57)，[例子2](https://github.com/wengjq/Blog/issues/3)|[Javascript中的apply和call继承](https://github.com/Wscats/Good-text-Share/issues/56)|
 |[前端程序员经常忽视的一个JavaScript面试题](https://github.com/Wscats/Good-text-Share/issues/85)|[我如何用前端技术得到XXOO网站的VIP](https://github.com/Wscats/Good-text-Share/issues/62)|
@@ -21,6 +22,10 @@
 | [JavaScript ECAMScript5 新特性——get/set访问器](http://www.cnblogs.com/DaisyWang/p/Git.html) | [JavaScript的原始类型、引用类型、栈、堆、浅拷贝、深拷贝的概念](https://github.com/deepthan/Front-end-resource-collection/issues/6) |
 | [javaScript事件总览,要实现Angular的方法（未）](http://www.cnblogs.com/starof/p/4106904.html) | [javascript - "Thinking in AngularJS" if I have a jQuery background?](https://stackoverflow.com/questions/14994391/thinking-in-angularjs-if-i-have-a-jquery-background) |
 | [JS操作DOM元素属性和方法](http://thinking80s.iteye.com/blog/723935) | |
+
+| 标题 | 标题 |
+| --------- | --------- |
+| [console全集](https://github.com/deepthan/Front-end-resource-collection/issues/29) | |
 
 | 介绍 | 地址 |
 | --------- | --------- |
