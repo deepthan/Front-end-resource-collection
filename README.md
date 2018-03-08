@@ -390,7 +390,7 @@
 |[php发送邮件 ](https://github.com/deepthan/Front-end-resource-collection/issues/9) | [php抓取页面内容 ](https://github.com/deepthan/Front-end-resource-collection/issues/16) |
 |[wordpress模板构造](https://github.com/deepthan/Front-end-resource-collection/issues/12) | [上传文件](https://github.com/deepthan/Front-end-resource-collection/issues/13)| 
 | [wordprss里面分别怎么取出父子分类信息 ](https://github.com/deepthan/Front-end-resource-collection/issues/14) |  [php 请求数据](https://github.com/deepthan/Front-end-resource-collection/issues/24)  | 
-
+| [循环打印文章中自定义栏目](https://github.com/deepthan/Front-end-resource-collection/issues/30)|  |
 
 | 函数调用 | 函数调用 | 
 | ---  | --- |
