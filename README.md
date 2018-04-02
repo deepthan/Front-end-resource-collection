@@ -271,7 +271,11 @@
 ## nginx
 | Reference | Reference |
 | --------- | --------- |
-| [官网](http://www.nginx.cn/doc/) |  |
+| [官网](http://www.nginx.cn/doc/) |  [Nginx安装及配置详解](https://github.com/deepthan/Front-end-resource-collection/issues/31)|
+
+| Reference | Reference |
+| --------- | --------- |
+| 淘宝在Nginx的基础上，添加了功能和特性[Tengine](http://tengine.taobao.org/) |  []()|
 
 ## Sass&Less
 | Article | Article |
