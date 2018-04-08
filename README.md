@@ -427,6 +427,8 @@
 | css | css |
 | --------- | --------- |
 | javascript里css风格指南[CSS-in-JavaScript](https://github.com/airbnb/javascript/tree/master/css-in-javascript)  | css风格指南：[英文版](https://github.com/airbnb/css)/[中文版](https://github.com/Zhangjd/css-style-guide)  | 
+| css加载动画集合 [loaders.css](https://github.com/ConnorAtherton/loaders.css) | |
+
 
 
 ## 编辑器
