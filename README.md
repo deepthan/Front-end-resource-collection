@@ -144,6 +144,14 @@
 |[Gulp插件](http://gulpjs.com/plugins])|[Gulp不完全入门教程](http://www.ido321.com/1622.html)|
 |[Gulp 入门指南](https://github.com/nimojs/gulp-book)||
 
+## webpack 
+| 转载 | 转载 |
+| --------- | --------- |
+|[搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)||
+
+
+
+
 
 ## 其他
 | Other | Article |
